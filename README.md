@@ -10,5 +10,4 @@ curl -fsSL https://github.com/theaqua/birman_layout_icons/raw/master/change.sh |
 
 Использованы иконки с сайтов:
 
-* http://www.iconattitude.com
 * http://www.iconfinder.com
