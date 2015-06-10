@@ -3,7 +3,7 @@
 Запуск:
 
 ``` bash
-curl -fsSL https://github.com/stamm/birman_layout_normal_icons/raw/master/change.sh | bash
+curl -fsSL https://github.com/theaqua/birman_layout_icons/raw/master/change.sh | bash
 ```
 
 

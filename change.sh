@@ -6,8 +6,8 @@ if [[ "$OSTYPE" == "darwin"* ]]; then
 		ru="$directory/Russian - Ilya Birman Typography.icns"
 		mv "$us"{,.bak}
 		mv "$ru"{,.bak}
-		curl -sSL https://github.com/stamm/birman_layout_normal_icons/raw/master/flag-ru.icns > "$ru"
-		curl -sSL https://github.com/stamm/birman_layout_normal_icons/raw/master/flag-us.icns > "$us"
+		curl -sSL https://github.com/theaqua/birman_layout_icons/raw/master/flag-ru.icns > "$ru"
+		curl -sSL https://github.com/theaqua/birman_layout_icons/raw/master/flag-us.icns > "$us"
 		echo 'You need to restart Mac to apply icons'
 	else
 		echo 'You not install Birman Typography layout'
