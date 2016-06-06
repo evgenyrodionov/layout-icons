@@ -4,7 +4,7 @@ Replace USSR icons with normal flags in Ilya Birman's typography layout
 
 ### Install
 ``` bash
-curl -fsSL https://github.com/theaqua/layout-icons/raw/master/change.sh | bash
+curl -fsSL https://github.com/evgenyrodionov/layout-icons/raw/master/change.sh | bash
 ```
 
 ### About
